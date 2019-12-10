@@ -11,8 +11,8 @@
 1. if文  
   [Ex002.java](https://github.com/thumb-biz/java-samples/blob/master/src/main/java/jp/co/thumb_biz/java/samples/Ex002.java)  
   [Ex003.java](https://github.com/thumb-biz/java-samples/blob/master/src/main/java/jp/co/thumb_biz/java/samples/Ex003.java)  
+1. switch文  
   [Ex004.java](https://github.com/thumb-biz/java-samples/blob/master/src/main/java/jp/co/thumb_biz/java/samples/Ex004.java)  
-1. switch文
 ## ループ
 1. for文
 1. while文
