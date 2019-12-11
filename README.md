@@ -14,8 +14,11 @@
 1. switch文  
   [Ex004.java](https://github.com/thumb-biz/java-samples/blob/master/src/main/java/jp/co/thumb_biz/java/samples/Ex004.java)  
 ## ループ
-1. for文
-1. while文
+1. for文  
+  [Ex005.java](https://github.com/thumb-biz/java-samples/blob/master/src/main/java/jp/co/thumb_biz/java/samples/Ex005.java)  
+  [Ex007.java](https://github.com/thumb-biz/java-samples/blob/master/src/main/java/jp/co/thumb_biz/java/samples/Ex007.java)  
+1. while文  
+  [Ex006.java](https://github.com/thumb-biz/java-samples/blob/master/src/main/java/jp/co/thumb_biz/java/samples/Ex006.java)  
 ## 配列変数
 1. 1次元配列
 1. 2次元配列
