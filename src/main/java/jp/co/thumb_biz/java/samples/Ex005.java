@@ -1,7 +1,9 @@
 package jp.co.thumb_biz.java.samples;
 
-public class Ex000 {
+public class Ex005 {
     public static void main(String[] args) {
-	System.out.println("ここに処理を記述する");
+	for (int i = 0; i < 100; i++) {
+	    System.out.println(i);
+	}
     }
 }
