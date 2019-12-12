@@ -1,10 +1,37 @@
+https://www.javadrive.jp/start/
 # java-samples
 こちらは株式会社[サム・ビジネス](http://www.thumb-biz.co.jp/)、Javaプログラミン言語の教育用プロジェクトです。
 学習の目的で、当該プロジェクトのソースコードのご利用は原則自由です。
 
 # 目次
-## Java言語の基本構造
+## JDKのインストール
+## Javaプログラム作成手順
+## Java言語の基本
+1. クラス
+1. メソッドとフィールド
+1. 最初に呼び出されるクラスのメソッド
+1. 文の記述
+1. プログラムの整形
+1. コメント
+1. 予約語  
   [Ex000.java](https://github.com/thumb-biz/java-samples/blob/master/src/main/java/jp/co/thumb_biz/java/samples/Ex000.java)  
+## 文字列と数値
+1. 文字
+1. 文字コード
+1. 文字列
+1. 特殊な文字の入力(エスケープシーケンス)
+1. 数値
+1. 8進数、16進数で整数を表現する
+1. 指数形式で浮動小数点数を表現する
+## 変数とデータ型
+1. 変数の使い方
+1. 変数の宣言
+1. 変数名のつけ方(識別子)
+1. 基本のデータ型
+1. 値の代入
+1. 変数の初期化
+1. 別の値を代入
+1. 変数の値を取得
 ## 演算子
   [Ex001.java](https://github.com/thumb-biz/java-samples/blob/master/src/main/java/jp/co/thumb_biz/java/samples/Ex001.java)  
 ## 分岐
