@@ -4,9 +4,9 @@ https://www.javadrive.jp/start/
 学習の目的で、当該プロジェクトのソースコードのご利用は原則自由です。
 
 # 目次
-## JDKのインストール
-## Javaプログラム作成手順
-## Java言語の基本
+## [JDKのインストール](docs/java/install.md)
+## [Javaプログラム作成手順](docs/java/startup.md)
+## [Java言語の基本](docs/java/base.md)
 1. クラス
 1. メソッドとフィールド
 1. 最初に呼び出されるクラスのメソッド
@@ -15,7 +15,7 @@ https://www.javadrive.jp/start/
 1. コメント
 1. 予約語  
   [Ex000.java](https://github.com/thumb-biz/java-samples/blob/master/src/main/java/jp/co/thumb_biz/java/samples/Ex000.java)  
-## 文字列と数値
+## [文字列と数値](docs/java/string_value.md)
 1. 文字
 1. 文字コード
 1. 文字列
@@ -23,7 +23,7 @@ https://www.javadrive.jp/start/
 1. 数値
 1. 8進数、16進数で整数を表現する
 1. 指数形式で浮動小数点数を表現する
-## 変数とデータ型
+## [変数とデータ型](docs/java/type.md)
 1. 変数の使い方
 1. 変数の宣言
 1. 変数名のつけ方(識別子)
@@ -32,42 +32,42 @@ https://www.javadrive.jp/start/
 1. 変数の初期化
 1. 別の値を代入
 1. 変数の値を取得
-## 演算子
+## [演算子](docs/java/operator.md)
   [Ex001.java](https://github.com/thumb-biz/java-samples/blob/master/src/main/java/jp/co/thumb_biz/java/samples/Ex001.java)  
-## 分岐
+## [分岐処理](docs/java/conditional.md)
 1. if文  
   [Ex002.java](https://github.com/thumb-biz/java-samples/blob/master/src/main/java/jp/co/thumb_biz/java/samples/Ex002.java)  
   [Ex003.java](https://github.com/thumb-biz/java-samples/blob/master/src/main/java/jp/co/thumb_biz/java/samples/Ex003.java)  
 1. switch文  
   [Ex004.java](https://github.com/thumb-biz/java-samples/blob/master/src/main/java/jp/co/thumb_biz/java/samples/Ex004.java)  
-## ループ
+## [ループ処理](docs/java/loop.md)
 1. for文  
   [Ex005.java](https://github.com/thumb-biz/java-samples/blob/master/src/main/java/jp/co/thumb_biz/java/samples/Ex005.java)  
   [Ex007.java](https://github.com/thumb-biz/java-samples/blob/master/src/main/java/jp/co/thumb_biz/java/samples/Ex007.java)  
 1. while文  
   [Ex006.java](https://github.com/thumb-biz/java-samples/blob/master/src/main/java/jp/co/thumb_biz/java/samples/Ex006.java)  
-## 配列変数
+## [配列変数](docs/java/array.md)
 1. 1次元配列
 1. 2次元配列
 1. foreach
-## メソッドの作成と変数スコープ
-## クラス
-## クラス図
-## クラス：継承
-## クラス：実装
+## [メソッドの作成と変数スコープ]()
+## [クラス]()
+## [クラス図]()
+## [クラス：継承]()
+## [クラス：実装]()
 1. ラムダ式
 1. ラムダ式のforeach
-## 例外処理
-## スレッド
-## 同期制御とデッドロック
-## 入出力バイトストリーム
-## StringとStringBuilder
-## ラッパークラスとデータの集合
-## java入門
+## [例外処理]()
+## [スレッド]()
+## [同期制御とデッドロック]()
+## [入出力バイトストリーム]()
+## [StringとStringBuilder](docs/java/string_bulider_class.md)
+## [ラッパークラスとデータの集合]()
+## [java入門]()
 1. javadocの読み方
 1. jdkのソースコードを読んでみる(String)
-## デザインパターン：テンプレートメソッド
-## デザインパターン：シングルトン
-## サーブレット
-## Springフレームワーク
-## デザインパターン：DAO
+## [デザインパターン：テンプレートメソッド]()
+## [デザインパターン：シングルトン]()
+## [サーブレット]()
+## [Springフレームワーク]()
+## [デザインパターン：DAO]()
