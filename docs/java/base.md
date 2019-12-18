@@ -137,4 +137,44 @@ class sample{
   }
 }
 </pre>
+## コメント
+プログラムを作成していく時に、このメソッドはどんなメソッドなのかや誰がいつ記述したものなのかといった情報を残しておくと後で見なした時に便利です。このようにプログラムの中に説明を記述する時に使うのがコメントです。
+
+<pre>
+//を使ったコメント
+
+/* */を使ったコメント
+</pre>
+
+javadocの形式を使うと、ドキュメントを自動生成してくれる機能があります。今後の抗議の中で紹介したいと思います。
+<pre>
+/**
+ * javadoc
+ *
+ */
+</pre>
+
+## 予約語
+Javaの言語仕様として何らかの意味を持つ単語を予約語として登録してあります。例えば条件分岐を記述する時に使用される「if」などが予約語です。今後変数やクラスなどの名前を自分で付ける時にはJavaの予約語は使用することができません。
+
+予約語の一覧は次の通りです。
+
+||||||
+----|----|----|----|----
+|abstract|assert|boolean|break|byte|
+|case|catch|char|class|const|
+|continue|default|do|double|else|
+|enum|extends|final|finally|float|
+|for|goto|if|implements|import|
+|instanceof|int|interface|long|native|
+|new|package|private|protected|public|
+|return|short|static|strictfp|super|
+|switch|synchrnized|this|throw|throws|
+|transient|try|void|volatile|while|
+
+なお下記の3つは予約語ではなく予め用意された定数です。
+
+||||
+----|----|----
+|true|false|null|
 
