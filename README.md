@@ -11,7 +11,6 @@ https://www.javadrive.jp/start/
 1. メソッドとフィールド
 1. 最初に呼び出されるクラスのメソッド
 1. 文の記述
-1. プログラムの整形
 1. コメント
 1. 予約語  
   [Ex000.java](https://github.com/thumb-biz/java-samples/blob/master/src/main/java/jp/co/thumb_biz/java/samples/Ex000.java)  
