@@ -16,7 +16,6 @@ https://www.javadrive.jp/start/
   [Ex000.java](https://github.com/thumb-biz/java-samples/blob/master/src/main/java/jp/co/thumb_biz/java/samples/Ex000.java)  
 ## [文字列と数値](docs/java/string_value.md)
 1. 文字
-1. 文字コード
 1. 文字列
 1. 特殊な文字の入力(エスケープシーケンス)
 1. 数値
